@@ -8,7 +8,7 @@
 ## Calculation of CGPA based on all the GPA obatined in all the semesters
 * This is obtained taking the GPA of all the semesters as input and with applying the necessary formulas to the problem the output can be obtained.
 ## Benefits
-* By using these calculator, students can easily calculate theit gpa and cgpa by simply entering the marks/gradepoints they have obtained in their respective subjects.
+* By using these calculator, students can easily calculate theit GPA and CGPA by simply entering the marks/gradepoints they have obtained in their respective subjects.
 ## Cost and Features
 ### Cost
 * It is free of cost.
@@ -32,7 +32,7 @@
 * Students can convert thier results in any form either in grade format or in the gradepoint format or in the gpa format.
 ## Detail Requirements
 ### High Level Requirements:
-HR01: User shall be able to save their records in a file                       
+HR01: User shall be able to save their records in a file.                       
 HR02: Data given by the user shuld always be stored before closing the system.                                                                           
 ### Low Level Requirements:
 LR01: If a user searches for a specific record and if it is not found then it should display a message " No Record Found ".                    
