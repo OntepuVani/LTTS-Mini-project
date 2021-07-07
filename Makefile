@@ -5,7 +5,6 @@ PROJECT_NAME = GPA/CGPA calculator and gradepoint predictor
 BUILD = build
 
 # All source code files
-SRC = src/grade.c \
 src/cgpa.c \
 src/semester.c \
 
