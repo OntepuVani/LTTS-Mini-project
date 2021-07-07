@@ -1,2 +1,0 @@
-# cgpa.c
-#Semester.c
