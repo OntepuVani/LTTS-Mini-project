@@ -4,9 +4,9 @@
 * So consisdering this I have included all the calculation responsible for grades to GPA conversions,Cumulative GPA of all semesters.
 ## Research
 ## Calculation of GPA based on the gradepoints obtained in each subjects in a semester
-* This is obtained taking the gradepoints of all the subjects as input and with applying the necessary formulas to the problem the output can be obtained.
+* This is obtained by taking the gradepoints of all the subjects as input and with applying the necessary formulas to the problem the output can be obtained.
 ## Calculation of CGPA based on all the GPA obatined in all the semesters
-* This is obtained taking the GPA of all the semesters as input and with applying the necessary formulas to the problem the output can be obtained.
+* This is obtained by taking the GPA of all the semesters as input and with applying the necessary formulas to the problem the output can be obtained.
 ## Benefits
 * By using these calculator, students can easily calculate theit GPA and CGPA by simply entering the marks/gradepoints they have obtained in their respective subjects.
 ## Cost and Features
