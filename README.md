@@ -32,21 +32,13 @@
 * Students can convert thier results in any form either in grade format or in the gradepoint format or in the gpa format.
 ## Detail Requirements
 ### High Level Requirements:
-
-| ID | Description                                                              |
---------------------------------------------------------------------------------|
-|HR01| User shall be able to save their records in a file                       |
-|HR02|Data given by the user shuld always be stored before closing the system.  |  
-|    |                                                                          |
-
-### Low Level Requirements
-
-| ID | Description
------------------------------------------------------------------------------------------------------------------------------------------------ |
-|LR01| If a user searches for a specific record and if it is not found then it should display a message " No Record Found ".                    |
-|LR02| If opening the file fails, then the system shloud prompt the message "Unable to access file" and should not end the program execution.   |
-|LR03| LR3. When user Log off the system, message shall be prompted asking the user to save new records to file before exiting or not.          |
-|    |                                                                                                                                          |
+HR01: User shall be able to save their records in a file                       
+HR02: Data given by the user shuld always be stored before closing the system.                                                                           
+### Low Level Requirements:
+LR01: If a user searches for a specific record and if it is not found then it should display a message " No Record Found ".                    
+LR02: If opening the file fails, then the system shloud prompt the message "Unable to access file" and should not end the program execution.   
+LR03: When user Log off the system, message shall be prompted asking the user to save new records to file before exiting or not.          
+                                                                                                                                         
 
 
 
