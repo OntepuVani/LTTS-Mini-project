@@ -1,24 +1,28 @@
 # Requirements
 ## Introduction
-* Here in this project,I have consisder the major problem that the students face after getting their results.Some have the problem of calculating the GPA for a semester after getting result in the form of grade/gradepoint and some have the problem of calaculating the percentage/mark or the over all grade for the marks they obtained.
-* So consisdering this I have included all the calculation responsible for grades to GPA conversions,Cumulative GPA of all semesters.
+* Here in this project,I have considered the major problem that the students face after getting their results.Some have the problem of calculating the GPA for a semester after getting result in the form of grade/gradepoint and some have the problem of calculating the percentage/mark or the over all grade for the marks they obtained.
+* So considering this I have included all the calculation responsible for grades to GPA conversions,Cumulative GPA of all semesters and the overall grade obtained based on your individual subject marks.
 ## Research
 ## Calculation of GPA based on the gradepoints obtained in each subjects in a semester
 * This is obtained by taking the gradepoints of all the subjects as input and with applying the necessary formulas to the problem the output can be obtained.
 ## Calculation of CGPA based on all the GPA obatined in all the semesters
 * This is obtained by taking the GPA of all the semesters as input and with applying the necessary formulas to the problem the output can be obtained.
+## Gradepoint predictor based on the marks obtained in individual subjects
+* This is obtained by taking the marks of all the subjects as input and with applying the necessary formulas to the problem the output can be obtained.
 ## Benefits
-* By using these calculator, students can easily calculate theit GPA and CGPA by simply entering the marks/gradepoints they have obtained in their respective subjects.
+* By using these calculator, students can easily calculate their GPA and CGPA by simply entering the marks/gradepoints they have obtained in their respective subjects.
 ## Cost and Features
 ### Cost
 * It is free of cost.
 ### Features
 * GPA calculator
 * CGPA calculator
+* Grade predictor
 ## Defining Our System
 ### Definition
 * GPA calculation is obtained taking the gradepoints of all the subjects as input and with applying the necessary formulas to the problem the output can be obtained. 
 * CGPA calculation is obtained taking the GPA of all the semester as input and with applying the necessary formulas to the problem the output can be obtained.
+* Gradepoint predictor is obtained by taking the marks of all the subjects as input and with applying the necessary formulas to the problem the output can be obtained.
 ## SWOT Analysis
 ### Strength
 * Resource availability
